@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "git+https://github.com/cstager/BirthdayBoy.git"
   },
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
-  "license": "WTFPL",
+  "author": "",
+  "license": "W",
   "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "",
   "dependencies": {
     "http-server": "^0.11.1"
   }
